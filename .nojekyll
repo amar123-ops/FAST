@@ -1,0 +1,3 @@
+# GitHub Pages में Jekyll बंद करने के लिए खाली .nojekyll फाइल बनाएं
+with open(".nojekyll", "w") as f:
+    pass
